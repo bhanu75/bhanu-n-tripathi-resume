@@ -1,0 +1,47 @@
+{
+  "name": "bhanu-n-tripathi",
+  "version": "1.0.3",
+  "description": "Bhanu Tripathi's interactive resume - Frontend Developer with 7+ years of experience",
+  "main": "index.js",
+  "bin": {
+    "bhanu-n-tripathi": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "frontend-developer",
+    "web-developer",
+    "javascript",
+    "html",
+    "css",
+    "bhanu-tripathi",
+    "portfolio"
+  ],
+  "author": {
+    "name": "Bhanu Tripathi",
+    "email": "Bhanutripathi91@gmail.com",
+    "url": "https://bt12.netlify.app"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/bhanu-n-tripathi-resume"
+  },
+  "homepage": "https://bt12.netlify.app",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "boxen": "^5.1.2"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "preferGlobal": true,
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
