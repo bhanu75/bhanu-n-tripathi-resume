@@ -13,7 +13,7 @@ Frontend Developer with 7+ years of experience in digital, client-facing, and op
 Run my resume instantly in your terminal:
 
 ```bash
-npx @bhanu-n-tripathi/resume
+npx @bhanu-n-tripathi
 ```
 
 That's it! No installation required.
